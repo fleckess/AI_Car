@@ -1,0 +1,44 @@
+
+WHITE = (255,255,255)
+countdown_value = 90
+FINISH_POSITION = (577, 538)
+STRIPE_ONE = (470, 538)
+STRIPE_TWO = (470, 368)
+STRIPE_THREE = (470, 207)
+STRIPE_FOUR = (470, 43)
+STRIPE_FIVE = (42, 160)
+STRIPE_SIX = (42, 493)
+STRIPE_SEVEN = (763, 300)
+
+STRIPE_FLAG_ONE = True
+STRIPE_FLAG_TWO = True
+STRIPE_FLAG_THREE = True
+STRIPE_FLAG_FOUR = True
+STRIPE_FLAG_FIVE = True
+STRIPE_FLAG_SIX = True
+STRIPE_FLAG_SEVEN = True
+
+Flags_round = 0
+GAME_FPS = 45
+score_value = 0
+count_Rounds = 0
+compare_Rounds_for_reward = 0
+reach_end_score = 20
+text_pos_X = 30
+text_pos_Y = 30
+timer_pos_X = 210
+timer_pos_Y = 30
+go = True
+RoundScore = 0
+Seconds = 0
+SETBACK = False
+punish_score = 0
+FINISH = False
+delay_count_round = 0
+flag_episode = False
+frame_iteration = 0
+Counter_check = 0
+check_20_seconds = 0
+compare_punish_collision_detection= 0
+Punish_collision_detection = 0
+Intermediate_target = 0
